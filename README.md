@@ -1,2 +1,3 @@
 # Lab2DevOps
- This repository is for subject DevOps
+ This is David Ramirez and Ouassim, we are international students
+ Group03
