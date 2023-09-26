@@ -1,5 +1,8 @@
 # Lab2DevOps
-This is an edit from David 
-I want to create a conflict 
- This is David Ramirez and Ouassim, we are international students
- Group03
+My name is 
+David Ramirez
+I'm editing this
+Because I want to 
+Create a conflict.
+Goodbye. 
+
