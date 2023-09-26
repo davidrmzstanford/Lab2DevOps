@@ -1,3 +1,4 @@
+
 DevOps Project
 
 This project serves as a starting point for a Node.js application with Express.js integration. It includes basic setup instructions and demonstrates creating a simple web server using Express.
@@ -38,5 +39,3 @@ Usage Instructions:
 Author Information:
 
 This project was created by David and Ouassim.
-
-
