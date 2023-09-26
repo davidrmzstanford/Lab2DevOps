@@ -1,4 +1,5 @@
 
+
 DevOps Project
 
 This project serves as a starting point for a Node.js application with Express.js integration. It includes basic setup instructions and demonstrates creating a simple web server using Express.
@@ -16,7 +17,7 @@ Installation Instructions:
 To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/myschool-devops-myproject.git
+   git clone https://github.com/davidrmzstanford/Lab2DevOps.git
 
 2. Navigate to the project directory:
    cd myschool-devops-myproject
@@ -27,14 +28,6 @@ To get started with this project, follow these steps:
 4. Install the Express package:
    npm install express
 
-Usage Instructions:
-
-1. Start the web application:
-   npm start
-
-2. Open your web browser and visit http://localhost:3000 to see the "Hello world!" message served by the Express application.
-
-3. You can modify the index.js file to add more functionality to your Express application or make other changes as needed.
 
 Author Information:
 
